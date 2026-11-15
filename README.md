@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @kengdahl
-- 👀 I’m interested in CAD work
-- 🌱 I’m currently learning Onshape and Solid Edge 
-- 💞️ I’m looking to collaborate on physical protyping
+- 👋 Hi, I’m @kengdahl! I’m interested in CAD and currently learning Onshape and Solid Edge.
+- I’m always excited to collaborate on physical prototyping projects and turn ideas into real-world designs.
 - 📫 How to reach me: k.engdahl@arduino.cc
 
 <!---
